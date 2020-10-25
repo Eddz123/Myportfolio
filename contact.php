@@ -1,9 +1,9 @@
-<?php 
+<?php
 
 	/* ==========================  Define variables ========================== */
 
 	#Your e-mail address
-	define("__TO__", "besimdauti24@gmail.com");
+	define("__TO__", "eddiefrancisco123@gmail.com");
 
 	#Message subject
 	define("__SUBJECT__", "examples.com = From:");
@@ -11,7 +11,7 @@
 	#Success message
 	define('__SUCCESS_MESSAGE__', "Your message has been sent. Thank you!");
 
-	#Error message 
+	#Error message
 	define('__ERROR_MESSAGE__', "Error, your message hasn't been sent");
 
 	#Messege when one or more fields are empty
