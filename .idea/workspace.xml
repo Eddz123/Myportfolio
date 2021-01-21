@@ -31,6 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../New Folder" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -44,7 +45,9 @@
       <option name="presentableId" value="Default" />
       <updated>1610887943174</updated>
       <workItem from="1610887945784" duration="106000" />
-      <workItem from="1610888060866" duration="448000" />
+      <workItem from="1610888060866" duration="1043000" />
+      <workItem from="1610986448280" duration="6100000" />
+      <workItem from="1611072624624" duration="3380000" />
     </task>
     <servers />
   </component>
@@ -52,6 +55,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1611085531874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611085531874" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1610888050729">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
